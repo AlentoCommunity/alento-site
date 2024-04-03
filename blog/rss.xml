@@ -3,15 +3,36 @@
         <title>
             Le blog d&#39;Alento
         </title>
+
         <link>
             https://www.alento.fr
         </link>
+        
         <description>
             Articles publiés par Alexandre sur l'agilité, le management, la gestion du temps.
         </description>
-        <pubDate>Mon, 26 Sep 2022 15:01:18 GMT</pubDate>
+        
+        <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
+
         <atom:link href="https://www.alento.fr/blog/rss.xml" rel="self" type="application/rss+xml"/>
         
+        <item>
+            <title>Les Jazzettes #30 : Blocage et nostalgie</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-30</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-30</guid>
+            <description>Avoir un minimum de temps libre et ne pas avoir à le remplir de nouvelles tâches...</description>
+            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-30.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-30.jpeg"/>
+        </item>
+
+        <item>
+            <title>Les Jazzettes #29 : Sur le besoin et l&#39;obsolescence</title><link>https://www.alento.fr/blog/les-jazzettes-29-sur-le-besoin-et-lobsolescence</link><guid>https://www.alento.fr/blog/les-jazzettes-29-sur-le-besoin-et-lobsolescence</guid><description>Les objets achetÃ©s me rendraient service, en rÃ©pondant Ã  des besoins. Est-ce bien le cas ?</description><pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/63d2a95dedbd472fabfd899a_obsolescence-besoin.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/63d2a95dedbd472fabfd899a_obsolescence-besoin.jpeg"/></item>
+        
+        <item><title>Les Jazzettes #28 : Le jour de la marmotte</title><link>https://www.alento.fr/blog/les-jazzettes-28-le-jour-de-la-marmotte</link><guid>https://www.alento.fr/blog/les-jazzettes-28-le-jour-de-la-marmotte</guid><description>Un phÃ©nomÃ¨ne a attirÃ© mon attention : lâ€™idÃ©e quâ€™en sâ€™efforÃ§ant de finir son travail le plus tÃ´t possible, voire dâ€™anticiper des tÃ¢ches, permettrait dâ€™Ãªtre tranquille le lendemain...</description><pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/63a16a6407e04365099ad113_le-jour-de-la-marmotte.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/63a16a6407e04365099ad113_le-jour-de-la-marmotte.jpeg"/></item>
+        
+        <item><title>Les Jazzettes #27 : Et maintenant ?</title><link>https://www.alento.fr/blog/les-jazzettes-27-et-maintenant</link><guid>https://www.alento.fr/blog/les-jazzettes-27-et-maintenant</guid><description>Arrive le moment de me poser cette question : et maintenant ? OÃ¹ est-ce que jâ€™en suis ? Ã€ quoi est-ce que je souhaite contribuer ?</description><pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/637b5883e6f17c0423af9347_cap-tourmente.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/637b5883e6f17c0423af9347_cap-tourmente.jpeg"/></item>
+
         <item>
             <title>Les Jazzettes #26 : Le commencement</title>
             <link>https://jazzettes.substack.com/p/les-jazzettes-26</link>
@@ -20,8 +41,8 @@
                 est-ce que ça commence ? Est-ce que ça commence quand quelqu'un dit que ça commence ? 
             </description>
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzette-26.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzette-26.jpeg"/>
+            <media:content url="../img/jazzettes-26.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-26.jpeg"/>
         </item>
         
         <item><title>Les Jazzettes #25 : La beautÃ© de l&#39;inachevÃ©</title><link>https://www.alento.fr/blog/les-jazzettes-25-la-beaute-de-linacheve</link><guid>https://www.alento.fr/blog/les-jazzettes-25-la-beaute-de-linacheve</guid><description>Comment apprÃ©cier ses projets inachevÃ©s et autres rÃ©flexions</description><pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/62e173819015bddba9d62b8a_giulia-may-hclMkLbYE_M-unsplash%20(1).jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/62e173819015bddba9d62b8a_giulia-may-hclMkLbYE_M-unsplash%20(1).jpg"/></item>
