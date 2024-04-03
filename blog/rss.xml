@@ -100,11 +100,35 @@
             <media:thumbnail url="../img/jazzettes-23.jpeg"/>
         </item>
         
-        <item><title>Les Jazzettes #22 : Casser la routine</title><link>https://www.alento.fr/blog/les-jazzettes-22-casser-la-routine</link><guid>https://www.alento.fr/blog/les-jazzettes-22-casser-la-routine</guid><description>Faire plus attention Ã  ce que l&#39;on fait</description><pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/623c40f994404562ddbdb37d_casser-la-routine.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/623c40f994404562ddbdb37d_casser-la-routine.jpeg"/></item>
+        <item>
+            <title>Les Jazzettes #22 : Casser la routine</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-22</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-22</guid>
+            <description>Faire plus attention à ce que l'on fait</description>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-22.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-22.jpeg"/>
+        </item>
         
-        <item><title>Les Jazzettes #21 - ArrÃªter la violence</title><link>https://www.alento.fr/blog/les-jazzettes-21-arreter-la-violence</link><guid>https://www.alento.fr/blog/les-jazzettes-21-arreter-la-violence</guid><description>Retrouver la joie aprÃ¨s une journÃ©e difficile</description><pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/62209ec772281f1bc4547981_51884716592_ca419572a3_c.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/62209ec772281f1bc4547981_51884716592_ca419572a3_c.jpg"/></item>
+        <item>
+            <title>Les Jazzettes #21 - Arrêter la violence</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-21</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-21</guid>
+            <description>Retrouver la joie après une journée difficile</description>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-21.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-21.jpeg"/>
+        </item>
         
-        <item><title>Les Jazzettes #20 - Avons-nous suffisamment de temps ?</title><link>https://www.alento.fr/blog/les-jazzettes-20-avons-nous-suffisamment-de-temps</link><guid>https://www.alento.fr/blog/les-jazzettes-20-avons-nous-suffisamment-de-temps</guid><description>Comment retrouver l&#39;abondance de temps</description><pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61fa634b030ab35e7c1dd1ea_51789867225_0a8032fd13_c.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61fa634b030ab35e7c1dd1ea_51789867225_0a8032fd13_c.jpg"/></item>
+        <item>
+            <title>Les Jazzettes #20 - Avons-nous suffisamment de temps ?</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-20</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-20</guid>
+            <description>Comment retrouver l'abondance de temps</description>
+            <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-20.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-20.jpeg"/>
+        </item>
         
         <item><title>Les Jazzette #19 - Ce n&#39;est pas compliquÃ©</title><link>https://www.alento.fr/blog/les-jazzette-19-ce-nest-pas-complique</link><guid>https://www.alento.fr/blog/les-jazzette-19-ce-nest-pas-complique</guid><description>Une invitation Ã  la dÃ©tente</description><pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61e14c16fd9fb8bf3255f89a_51817430117_643cae3c64_c.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61e14c16fd9fb8bf3255f89a_51817430117_643cae3c64_c.jpeg"/></item>
         
