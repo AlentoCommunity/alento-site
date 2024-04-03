@@ -200,11 +200,45 @@
             <media:thumbnail url="../img/jazzettes-13.jpeg"/>
         </item>
         
-        <item><title>Les Jazzettes #12 : Retrouver l&#39;essentiel</title><link>https://www.alento.fr/blog/les-jazzettes-12-retrouver-lessentiel</link><guid>https://www.alento.fr/blog/les-jazzettes-12-retrouver-lessentiel</guid><description>Quâ€™est-ce qui est essentiel dans notre vie et quel temps y consacre-t-on au quotidien ?</description><pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60ddc1e87a747c6d6c01f8cc_patrick-schneider-yw1y-alKGrg-unsplash-small.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60ddc1e87a747c6d6c01f8cc_patrick-schneider-yw1y-alKGrg-unsplash-small.jpg"/></item>
+        <item>
+            <title>Les Jazzettes #12 : Retrouver l'essentiel</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-12</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-12</guid>
+            <description>Qu'est-ce qui est essentiel dans notre vie et quel temps y consacre-t-on au quotidien ?</description>
+            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-12.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-12.jpeg"/>
+        </item>
         
-        <item><title>Les Jazzettes #11 : Abandonner ses objectifs pour les atteindre</title><link>https://www.alento.fr/blog/les-jazzettes-11-abandonner-ses-objectifs-pour-les-atteindre</link><guid>https://www.alento.fr/blog/les-jazzettes-11-abandonner-ses-objectifs-pour-les-atteindre</guid><description>Comment atteindre ses buts par le non-agir</description><pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60b8cdc463d7661da68375e4_ricardo-arce-cY_TCKr5bek-unsplash-small.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60b8cdc463d7661da68375e4_ricardo-arce-cY_TCKr5bek-unsplash-small.jpg"/></item>
+        <item>
+            <title>Les Jazzettes #11 : Abandonner ses objectifs pour les atteindre</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-11</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-11</guid>
+            <description>Comment atteindre ses buts par le non-agir</description>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-11.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-11.jpeg"/>
+        </item>
         
-        <item><title>Les Jazzettes #10 : Vers la sobriÃ©tÃ© de l&#39;information</title><link>https://www.alento.fr/blog/les-jazzettes-10-vers-la-sobriete-de-linformation</link><guid>https://www.alento.fr/blog/les-jazzettes-10-vers-la-sobriete-de-linformation</guid><description>Et si â€œne pas savoirâ€ Ã©tait un atout face Ã  la complexitÃ© du monde ? </description><pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/609e9080f3d3967c2cf990b7_joshua-rawson-harris-KRELIShKxTM-unsplash.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/609e9080f3d3967c2cf990b7_joshua-rawson-harris-KRELIShKxTM-unsplash.jpeg"/></item><item><title>Les Jazzettes #9 : Silence on tourne !</title><link>https://www.alento.fr/blog/les-jazzettes-9-silence-on-tourne</link><guid>https://www.alento.fr/blog/les-jazzettes-9-silence-on-tourne</guid><description>Je vous propose une petite expÃ©rience, un temps de silence. </description><pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/608fe12e86372734888dd97d_kristina-flour-BcjdbyKWquw-unsplash%20(1).jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/608fe12e86372734888dd97d_kristina-flour-BcjdbyKWquw-unsplash%20(1).jpg"/></item>
+        <item>
+            <title>Les Jazzettes #10 : Vers la sobriété de l'information</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-10</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-10</guid>
+            <description>Et si ne pas savoir était un atout face à la complexité du monde ?</description>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-10.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-10.jpeg"/>
+        </item>
+            
+        <item>
+            <title>Les Jazzettes #9 : Silence on tourne !</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-9</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-9</guid>
+            <description>Je vous propose une petite expÃ©rience, un temps de silence.</description>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-9.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-9.jpeg"/>
+        </item>
         
         <item><title>Les Jazzettes #8 : Laisser de la place Ã  l&#39;inutile</title><link>https://www.alento.fr/blog/les-jazzettes-8-laisser-de-la-place-a-linutile</link><guid>https://www.alento.fr/blog/les-jazzettes-8-laisser-de-la-place-a-linutile</guid><description>Avez-vous des moments inutiles durant votre journÃ©e ? Des temps oÃ¹ vous nâ€™Ãªtes pas vraiment concentrÃ©.e sur votre travail ?</description><pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/6091337bb256538fd3a3ebb7_sigmund-HsTnjCVQ798-unsplash%20(1).jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/6091337bb256538fd3a3ebb7_sigmund-HsTnjCVQ798-unsplash%20(1).jpg"/></item>
         
