@@ -80,7 +80,15 @@
             <media:thumbnail url="../img/jazzettes-25.jpeg"/>
         </item>
         
-        <item><title>Les Jazzettes #24 : La culture du burnout</title><link>https://www.alento.fr/blog/les-jazzettes-24-la-culture-du-burnout</link><guid>https://www.alento.fr/blog/les-jazzettes-24-la-culture-du-burnout</guid><description>Le burnout est un phÃ©nomÃ¨ne assez rÃ©pandu ces derniÃ¨res annÃ©es, en avez-vous entendu parler ? OÃ¹ peut-Ãªtre lâ€™avez vous mÃªme vÃ©cu ?</description><pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/62b043f2ea242651d2e6840e_jazzettes-24.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/62b043f2ea242651d2e6840e_jazzettes-24.jpeg"/></item>
+        <item>
+            <title>Les Jazzettes #24 : La culture du burnout</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-24</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-24</guid>
+            <description>Le burnout est un phénomène assez répondu ces dernières années, en avez-vous entendu parler ? Ou peut-être l'avez-vous même vécu ?</description>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-24.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-24.jpeg"/>
+        </item>
         
         <item><title>Les Jazzettes #23 : Dâ€™oÃ¹ vient lâ€™Ã©nergie ?</title><link>https://www.alento.fr/blog/les-jazzettes-23-dou-vient-lenergie</link><guid>https://www.alento.fr/blog/les-jazzettes-23-dou-vient-lenergie</guid><description>Lâ€™Ã©nergie pour accomplir ses rÃªves, pour rÃ©aliser ses projets, pour tenir ses engagements</description><pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/625da99e64b28cb36144df33_lac-iseo-italie.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/625da99e64b28cb36144df33_lac-iseo-italie.jpeg"/></item>
         
