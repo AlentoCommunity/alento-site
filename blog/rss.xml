@@ -130,9 +130,25 @@
             <media:thumbnail url="../img/jazzettes-20.jpeg"/>
         </item>
         
-        <item><title>Les Jazzette #19 - Ce n&#39;est pas compliquÃ©</title><link>https://www.alento.fr/blog/les-jazzette-19-ce-nest-pas-complique</link><guid>https://www.alento.fr/blog/les-jazzette-19-ce-nest-pas-complique</guid><description>Une invitation Ã  la dÃ©tente</description><pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61e14c16fd9fb8bf3255f89a_51817430117_643cae3c64_c.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61e14c16fd9fb8bf3255f89a_51817430117_643cae3c64_c.jpeg"/></item>
+        <item>
+            <title>Les Jazzette #19 - Ce n'est pas compliqué</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-19</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-19</guid>
+            <description>Une invitation à la détente</description>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-19.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-19.jpeg"/>
+        </item>
         
-        <item><title>Les Jazzettes #18 : Le temps des fÃªtes</title><link>https://www.alento.fr/blog/les-jazzettes-18-le-temps-des-fetes</link><guid>https://www.alento.fr/blog/les-jazzettes-18-le-temps-des-fetes</guid><description>Laisser la place Ã  la joie des cÃ©lÃ©brations</description><pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61c9bbb731d89b05910de5ec_51724574785_75aca2a826_c.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61c9bbb731d89b05910de5ec_51724574785_75aca2a826_c.jpg"/></item>
+        <item>
+            <title>Les Jazzettes #18 : Le temps des fêtes</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-18</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-18</guid>
+            <description>Laisser la place à la joie des célébrations</description>
+            <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-18.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-18.jpeg"/>
+        </item>
         
         <item><title>Les Jazzettes #17 : Ce qui arrive est la meilleure chose qui peut arriver</title><link>https://www.alento.fr/blog/les-jazzettes-17-ce-qui-arrive-est-la-meilleure-chose-qui-peut-arriver</link><guid>https://www.alento.fr/blog/les-jazzettes-17-ce-qui-arrive-est-la-meilleure-chose-qui-peut-arriver</guid><description>PrÃ©parez-vous Ã  Ãªtre surpris</description><pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61c9ba776a6f1b18e81c04f2_46043750115_593a0f3cce_c.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61c9ba776a6f1b18e81c04f2_46043750115_593a0f3cce_c.jpg"/></item>
         
