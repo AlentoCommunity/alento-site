@@ -40,17 +40,31 @@
             <media:thumbnail url="../img/jazzettes-29.jpeg"/>
         </item>
         
-        <item><title>Les Jazzettes #28 : Le jour de la marmotte</title><link>https://www.alento.fr/blog/les-jazzettes-28-le-jour-de-la-marmotte</link><guid>https://www.alento.fr/blog/les-jazzettes-28-le-jour-de-la-marmotte</guid><description>Un phÃ©nomÃ¨ne a attirÃ© mon attention : lâ€™idÃ©e quâ€™en sâ€™efforÃ§ant de finir son travail le plus tÃ´t possible, voire dâ€™anticiper des tÃ¢ches, permettrait dâ€™Ãªtre tranquille le lendemain...</description><pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/63a16a6407e04365099ad113_le-jour-de-la-marmotte.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/63a16a6407e04365099ad113_le-jour-de-la-marmotte.jpeg"/></item>
+        <item>
+            <title>Les Jazzettes #28 : Le jour de la marmotte</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-28</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-28</guid>
+            <description>Un phénomène a attiré mon attention : l'idée qu'en s'efforçant de finir son travail le plus tôt possible, voire d'anticiper des tâches, permettrait d'être tranquille le lendemain...</description>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate
+            ><media:content url="../img/jazzettes-28.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-28.jpeg"/>
+        </item>
         
-        <item><title>Les Jazzettes #27 : Et maintenant ?</title><link>https://www.alento.fr/blog/les-jazzettes-27-et-maintenant</link><guid>https://www.alento.fr/blog/les-jazzettes-27-et-maintenant</guid><description>Arrive le moment de me poser cette question : et maintenant ? OÃ¹ est-ce que jâ€™en suis ? Ã€ quoi est-ce que je souhaite contribuer ?</description><pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/637b5883e6f17c0423af9347_cap-tourmente.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/637b5883e6f17c0423af9347_cap-tourmente.jpeg"/></item>
+        <item>
+            <title>Les Jazzettes #27 : Et maintenant ?</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-27</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-27</guid>
+            <description>Arrive le moment de me poser cette question : et maintenant ? Où est-ce que j'en suis ? A quoi est-ce que je souhaite contribuer ?</description>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-27.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-27.jpeg"/>
+        </item>
 
         <item>
             <title>Les Jazzettes #26 : Le commencement</title>
             <link>https://jazzettes.substack.com/p/les-jazzettes-26</link>
             <guid>https://jazzettes.substack.com/p/les-jazzettes-26</guid>
-            <description>Un moment donné, ma réflexion m'a amené à cette question : quand 
-                est-ce que ça commence ? Est-ce que ça commence quand quelqu'un dit que ça commence ? 
-            </description>
+            <description>Un moment donné, ma réflexion m'a amené à cette question : quand est-ce que ça commence ? Est-ce que ça commence quand quelqu'un dit que ça commence ?</description>
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
             <media:content url="../img/jazzettes-26.jpeg" medium="image"/>
             <media:thumbnail url="../img/jazzettes-26.jpeg"/>
