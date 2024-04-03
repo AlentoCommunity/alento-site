@@ -90,7 +90,15 @@
             <media:thumbnail url="../img/jazzettes-24.jpeg"/>
         </item>
         
-        <item><title>Les Jazzettes #23 : Dâ€™oÃ¹ vient lâ€™Ã©nergie ?</title><link>https://www.alento.fr/blog/les-jazzettes-23-dou-vient-lenergie</link><guid>https://www.alento.fr/blog/les-jazzettes-23-dou-vient-lenergie</guid><description>Lâ€™Ã©nergie pour accomplir ses rÃªves, pour rÃ©aliser ses projets, pour tenir ses engagements</description><pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/625da99e64b28cb36144df33_lac-iseo-italie.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/625da99e64b28cb36144df33_lac-iseo-italie.jpeg"/></item>
+        <item>
+            <title>Les Jazzettes #23 : D'où vient l'énergie ?</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-23</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-23</guid>
+            <description>L'énergie pour accomplir ses rêves, pour réaliser ses projets, pour tenir ses engagements</description>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-23.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-23.jpeg"/>
+        </item>
         
         <item><title>Les Jazzettes #22 : Casser la routine</title><link>https://www.alento.fr/blog/les-jazzettes-22-casser-la-routine</link><guid>https://www.alento.fr/blog/les-jazzettes-22-casser-la-routine</guid><description>Faire plus attention Ã  ce que l&#39;on fait</description><pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/623c40f994404562ddbdb37d_casser-la-routine.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/623c40f994404562ddbdb37d_casser-la-routine.jpeg"/></item>
         
