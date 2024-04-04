@@ -319,7 +319,15 @@
             <media:content url="../img/jazzettes-1.jpeg" medium="image"/>
             <media:thumbnail url="../img/jazzettes-1.jpeg"/></item>
         
-        <item><title>Le temps juste (tempo giusto)</title><link>https://www.alento.fr/blog/le-temps-juste-tempo-giusto</link><guid>https://www.alento.fr/blog/le-temps-juste-tempo-giusto</guid><description>En lisant Slow business de Pierre Moniz-Barreto, jâ€™Ã©tais trÃ¨s intÃ©ressÃ© par le concept de rythme, de cadence, que jâ€™utilise souvent chez mes clients.</description><pubDate>Wed, 15 Apr 2020 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/609957e345191752c1f74b53_blog-temps-juste-image-1-640px.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/609957e345191752c1f74b53_blog-temps-juste-image-1-640px.jpg"/></item>
+        <item>
+            <title>Le temps juste (tempo giusto)</title>
+            <link>./blog/le-temps-juste-tempo-giusto.html</link>
+            <guid>./blog/le-temps-juste-tempo-giusto.html</guid>
+            <description>En lisant Slow business de Pierre Moniz-Barreto, j'étais très intéressé par le concept de rythme, de cadence, que j'utilise souvent chez mes clients.</description>
+            <pubDate>Wed, 15 Apr 2020 00:00:00 GMT</pubDate>
+            <media:content url="./img/le-temps-juste-tempo-giusto.jpg" medium="image"/>
+            <media:thumbnail url="./img/le-temps-juste-tempo-giusto.jpg"/>
+        </item>
         
         <item><title>Nous ouvrons lâ€™espace avec lâ€™open space !</title><link>https://www.alento.fr/blog/nous-ouvrons-lespace-avec-lopen-space</link><guid>https://www.alento.fr/blog/nous-ouvrons-lespace-avec-lopen-space</guid><description>DÃ©couvrez un format de journÃ©e collaborative trÃ¨s utile pour lâ€™Ã©mergence de nouvelles idÃ©es, le partage de connaissance, et la crÃ©ation de lien entre les participant.e.s.</description><pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60ae5167c0a89d9c992f79e2_49506002888_52fb8e9462_c.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60ae5167c0a89d9c992f79e2_49506002888_52fb8e9462_c.jpg"/></item>
         
