@@ -349,11 +349,35 @@
             <media:thumbnail url="./img/ikigai-croise.png"/>
         </item>
         
-        <item><title>Câ€™est extra !</title><link>https://www.alento.fr/blog/cest-extra</link><guid>https://www.alento.fr/blog/cest-extra</guid><description>Une des valeurs fondamentales de la philosophie agile est la transparence. Câ€™est cependant souvent une arme Ã  double tranchant. Mal utilisÃ©e, elle peut crÃ©er lâ€™inverse de lâ€™effet escomptÃ©.</description><pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/617183ad70e71d4bbcf102db_cestextra%20medium.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/617183ad70e71d4bbcf102db_cestextra%20medium.jpeg"/></item>
+        <item>
+            <title>C'est extra !</title>
+            <link>./blog/cest-extra.html</link>
+            <guid>./blog/cest-extra.html</guid>
+            <description>Une des valeurs fondamentales de la philosophie agile est la transparence. C'est cependant souvent une arme à double tranchant. Mal utilisée, elle peut créer l'inverse de l'effet escompté.</description>
+            <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+            <media:content url="./img/cest-extra.jpeg" medium="image"/>
+            <media:thumbnail url="./img/cest-extra.jpeg"/>
+        </item>
         
-        <item><title>La piscine sans rebord visible</title><link>https://www.alento.fr/blog/la-piscine-sans-rebord-visible</link><guid>https://www.alento.fr/blog/la-piscine-sans-rebord-visible</guid><description>Jâ€™ai plongÃ© dans une piscine, pour me rendre compte en regardant tout autour de moi quâ€™il nâ€™y avait pas de rebords visibles !</description><pubDate>Wed, 28 Aug 2019 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/616eae3b1b4429ff0c34a4ec_piscine-sans-bord-small.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/616eae3b1b4429ff0c34a4ec_piscine-sans-bord-small.jpeg"/></item>
+        <item>
+            <title>La piscine sans rebord visible</title>
+            <link>./blog/la-piscine-sans-rebord-visible.html</link>
+            <guid>./blog/la-piscine-sans-rebord-visible.html</guid>
+            <description>J'ai plongé dans une piscine, pour me rendre compte en regardant tout autour de moi qu'il n'y avait pas de rebords visibles !</description>
+            <pubDate>Wed, 28 Aug 2019 00:00:00 GMT</pubDate>
+            <media:content url="./img/la-piscine-sans-rebord-visible.jpeg" medium="image"/>
+            <media:thumbnail url="./img/la-piscine-sans-rebord-visible.jpeg"/>
+        </item>
         
-        <item><title>Scrum : Ã©lÃ©ments Ã  considÃ©rer lors d&#39;un lancement de sprint</title><link>https://www.alento.fr/blog/scrum-elements-a-considerer-lors-dun-lancement-de-sprint</link><guid>https://www.alento.fr/blog/scrum-elements-a-considerer-lors-dun-lancement-de-sprint</guid><description>Dans ce court article, je dÃ©cris la structure que je recommande pour lancer un sprint en pensant Ã  tous les Ã©lÃ©ments en jeu. </description><pubDate>Wed, 30 Jan 2019 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61716554ebfd870852a90ba2_braden-collum-87874-unsplash-small.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61716554ebfd870852a90ba2_braden-collum-87874-unsplash-small.jpeg"/></item>
+        <item>
+            <title>Scrum : éléments à considérer lors d'un lancement de sprint</title>
+            <link>./blog/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.html</link>
+            <guid>./blog/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.html</guid>
+            <description>Dans ce court article, je décris la structure que je recommande pour lancer un sprint en pensant à tous les éléments en jeu.</description>
+            <pubDate>Wed, 30 Jan 2019 00:00:00 GMT</pubDate>
+            <media:content url="./img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg" medium="image"/>
+            <media:thumbnail url="./img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg"/>
+        </item>
         
         <item><title>Joy, Inc. - La joie est bruyante !</title><link>https://www.alento.fr/blog/joy-inc-la-joie-est-bruyante</link><guid>https://www.alento.fr/blog/joy-inc-la-joie-est-bruyante</guid><description>Jâ€™ai terminÃ©, dÃ©but 2018, le livre Joy, Inc. - How We Built a Workplace People Love de Richard Sheridan, co-fondateur de Menlo Innovations.</description><pubDate>Sat, 17 Mar 2018 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61717898f52dc8c3fea8201c_joy_inc%20small.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61717898f52dc8c3fea8201c_joy_inc%20small.jpeg"/></item>
         
