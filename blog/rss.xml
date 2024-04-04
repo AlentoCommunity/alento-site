@@ -132,8 +132,8 @@
         
         <item>
             <title>Les Jazzette #19 - Ce n'est pas compliqué</title>
-            <link>https://jazzettes.substack.com/p/les-jazzettes-19</link>
-            <guid>https://jazzettes.substack.com/p/les-jazzettes-19</guid>
+            <link>https://jazzettes.substack.com/p/les-jazzette-19</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzette-19</guid>
             <description>Une invitation à la détente</description>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <media:content url="../img/jazzettes-19.jpeg" medium="image"/>
@@ -371,7 +371,7 @@
         
         <item>
             <title>Scrum : éléments à considérer lors d'un lancement de sprint</title>
-            <link>.scrum-elements-a-considerer-lors-dun-lancement-de-sprint.html</link>
+            <link>scrum-elements-a-considerer-lors-dun-lancement-de-sprint.html</link>
             <guid>scrum-elements-a-considerer-lors-dun-lancement-de-sprint.html</guid>
             <description>Dans ce court article, je décris la structure que je recommande pour lancer un sprint en pensant à tous les éléments en jeu.</description>
             <pubDate>Wed, 30 Jan 2019 00:00:00 GMT</pubDate>
