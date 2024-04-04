@@ -379,11 +379,35 @@
             <media:thumbnail url="./img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg"/>
         </item>
         
-        <item><title>Joy, Inc. - La joie est bruyante !</title><link>https://www.alento.fr/blog/joy-inc-la-joie-est-bruyante</link><guid>https://www.alento.fr/blog/joy-inc-la-joie-est-bruyante</guid><description>Jâ€™ai terminÃ©, dÃ©but 2018, le livre Joy, Inc. - How We Built a Workplace People Love de Richard Sheridan, co-fondateur de Menlo Innovations.</description><pubDate>Sat, 17 Mar 2018 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61717898f52dc8c3fea8201c_joy_inc%20small.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61717898f52dc8c3fea8201c_joy_inc%20small.jpeg"/></item>
+        <item>
+            <title>Joy, Inc. - La joie est bruyante !</title>
+            <link>./blog/joy-inc-la-joie-est-bruyante.html</link>
+            <guid>./blog/joy-inc-la-joie-est-bruyante.html</guid>
+            <description>J'ai terminé, début 2018, le livre Joy, Inc. - How We Built a Workplace People Love de Richard Sheridan, co-fondateur de Menlo Innovations.</description>
+            <pubDate>Sat, 17 Mar 2018 00:00:00 GMT</pubDate>
+            <media:content url="./img/joy-inc-la-joie-est-bruyante.jpeg" medium="image"/>
+            <media:thumbnail url="./img/joy-inc-la-joie-est-bruyante.jpeg"/>
+        </item>
         
-        <item><title>Les arts plastiques pour la co-construction dâ€™une Ã©volution de lâ€™organisation</title><link>https://www.alento.fr/blog/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation</link><guid>https://www.alento.fr/blog/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation</guid><description>Il sâ€™agit dâ€™un atelier oÃ¹ diffÃ©rents acteurs de lâ€™entreprise font du dessin, du dÃ©coupage et du collage avec des formes variÃ©es. </description><pubDate>Fri, 21 Jul 2017 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/6171774ec30d51ff00c318c2_arts-plastiques-deroule%20small.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/6171774ec30d51ff00c318c2_arts-plastiques-deroule%20small.jpeg"/></item>
+        <item>
+            <title>Les arts plastiques pour la co-construction d'une évolution de l'organisation</title>
+            <link>./blog/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.html</link>
+            <guid>./blog/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.html</guid>
+            <description>Il s'agit d'un atelier où différents acteurs de l'entreprise font du dessin, du découpage et du collage avec des formes variées.</description>
+            <pubDate>Fri, 21 Jul 2017 00:00:00 GMT</pubDate>
+            <media:content url="./img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg" medium="image"/>
+            <media:thumbnail url="./img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg"/>
+        </item>
         
-        <item><title>Les Transformers, les maÃ®tres de l&#39;illusion !</title><link>https://www.alento.fr/blog/les-transformers-les-maitres-de-lillusion</link><guid>https://www.alento.fr/blog/les-transformers-les-maitres-de-lillusion</guid><description>Vous savez ces budgets mis en place pour aider les dÃ©partements informatiques Ã  Ãªtre plus performants, Ã  livrer plus vite et moins cher. Je trouve que câ€™est une illusion si les hauts dirigeant(e)s ne pensent pas quâ€™il faut quâ€™ils sâ€™y mettent eux ou elles aussi.</description><pubDate>Mon, 06 Mar 2017 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61717f4416d269dc863569d5_randy-jacob-A1HC8M5DCQc-unsplash%20medium.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/61717f4416d269dc863569d5_randy-jacob-A1HC8M5DCQc-unsplash%20medium.jpeg"/></item>
+        <item>
+            <title>Les Transformers, les maîtres de l'illusion !</title>
+            <link>./blog/les-transformers-les-maitres-de-lillusion.html</link>
+            <guid>./blog/les-transformers-les-maitres-de-lillusion.html</guid>
+            <description>Vous savez ces budgets mis en place pour aider les départements informatiques à être plus performants, à livrer plus vite et moins cher. Je trouve que c'est une illusion si les hauts dirigeant(e)s ne pensent pas qu'il faut qu'ils s'y mettent eux ou elles aussi.</description>
+            <pubDate>Mon, 06 Mar 2017 00:00:00 GMT</pubDate>
+            <media:content url="./img/les-transformers-les-maitres-de-lillusion.jpeg" medium="image"/>
+            <media:thumbnail url="./img/les-transformers-les-maitres-de-lillusion.jpeg"/>
+        </item>
         
     </channel>
     
