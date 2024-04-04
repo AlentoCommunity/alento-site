@@ -270,9 +270,25 @@
             <media:thumbnail url="../img/jazzettes-6.jpeg"/>
         </item>
         
-        <item><title>Les Jazzettes #5 : Respecter son Ã©quilibre</title><link>https://www.alento.fr/blog/les-jazzettes-5-respecter-son-equilibre</link><guid>https://www.alento.fr/blog/les-jazzettes-5-respecter-son-equilibre</guid><description>Prenez-vous du temps pour vous dÃ©connecter ?</description><pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a222a23f9948fdc5c6bd17_jose-fulgencio-orenes-martinez-F3Clv7J2Mvc-unsplash%20(2).jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a222a23f9948fdc5c6bd17_jose-fulgencio-orenes-martinez-F3Clv7J2Mvc-unsplash%20(2).jpg"/></item>
+        <item>
+            <title>Les Jazzettes #5 : Respecter son équilibre</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-5</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-5</guid>
+            <description>Prenez-vous du temps pour vous déconnecter ?</description>
+            <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-5.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-5.jpeg"/>
+        </item>
         
-        <item><title>Les Jazzettes #4 : Tout est sous contrÃ´le</title><link>https://www.alento.fr/blog/les-jazzettes-4-tout-est-sous-controle</link><guid>https://www.alento.fr/blog/les-jazzettes-4-tout-est-sous-controle</guid><description>Il est extrÃªmement tentant de tout faire parfaitement, de toujours avoir de belles expÃ©riences.</description><pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a223c9852dc0076a44e6ed_marvin-meyer-SYTO3xs06fU-unsplash%20(2).jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a223c9852dc0076a44e6ed_marvin-meyer-SYTO3xs06fU-unsplash%20(2).jpg"/></item>
+        <item>
+            <title>Les Jazzettes #4 : Tout est sous contrôle</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-4</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-4</guid>
+            <description>Il est extrêmement tentant de tout faire parfaitement, de toujours avoir de belles expériences.</description>
+            <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-4.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-4.jpeg"/>
+        </item>
         
         <item><title>Les Jazzettes #3 : Le bien-Ãªtre ne se mÃ©rite pas</title><link>https://www.alento.fr/blog/les-jazzettes-3-le-bien-etre-ne-se-merite-pas</link><guid>https://www.alento.fr/blog/les-jazzettes-3-le-bien-etre-ne-se-merite-pas</guid><description>Prenez-vous le temps de vous faire plaisir dans vos journÃ©es ? Comment prenez-vous soin de votre bien-Ãªtre ?</description><pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a225ffd19a15b72d8e1a8f_eric-nopanen-8e0EHPUx3Mo-unsplash-small.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a225ffd19a15b72d8e1a8f_eric-nopanen-8e0EHPUx3Mo-unsplash-small.jpg"/></item><item><title>Les Jazzettes #2 : Le pouvoir d&#39;en faire moins et la libertÃ© de dÃ©cevoir</title><link>https://www.alento.fr/blog/les-jazzettes-2-le-pouvoir-den-faire-moins-et-la-liberte-de-decevoir</link><guid>https://www.alento.fr/blog/les-jazzettes-2-le-pouvoir-den-faire-moins-et-la-liberte-de-decevoir</guid><description>C&#39;est lâ€™histoire de Julie.</description><pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a228719bb6c777c98fb90f_the-humantra-uoXTTZ9I0DM-unsplash-small.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a228719bb6c777c98fb90f_the-humantra-uoXTTZ9I0DM-unsplash-small.jpg"/></item>
         
