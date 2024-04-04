@@ -329,9 +329,25 @@
             <media:thumbnail url="./img/le-temps-juste-tempo-giusto.jpg"/>
         </item>
         
-        <item><title>Nous ouvrons lâ€™espace avec lâ€™open space !</title><link>https://www.alento.fr/blog/nous-ouvrons-lespace-avec-lopen-space</link><guid>https://www.alento.fr/blog/nous-ouvrons-lespace-avec-lopen-space</guid><description>DÃ©couvrez un format de journÃ©e collaborative trÃ¨s utile pour lâ€™Ã©mergence de nouvelles idÃ©es, le partage de connaissance, et la crÃ©ation de lien entre les participant.e.s.</description><pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60ae5167c0a89d9c992f79e2_49506002888_52fb8e9462_c.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60ae5167c0a89d9c992f79e2_49506002888_52fb8e9462_c.jpg"/></item>
+        <item>
+            <title>Nous ouvrons l'espace avec l'open space !</title>
+            <link>./blog/nous-ouvrons-lespace-avec-lopen-space.html</link>
+            <guid>./blog/nous-ouvrons-lespace-avec-lopen-space.html</guid>
+            <description>Découvrez un format de journée collaborative très utile pour l'émergence de nouvelles idées, le partage de connaissance, et la création de lien entre les participant.e.s.</description>
+            <pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate>
+            <media:content url="./img/nous-ouvrons-lespace-avec-lopen-space.jpg" medium="image"/>
+            <media:thumbnail url="./img/nous-ouvrons-lespace-avec-lopen-space.jpg"/>
+        </item>
         
-        <item><title>Ikigai croisÃ©</title><link>https://www.alento.fr/blog/ikigai-croise</link><guid>https://www.alento.fr/blog/ikigai-croise</guid><description>Une idÃ©e pour donner du piquant au jeu est, lorsque chaque membre du couple a fait son IKIGAI de son cÃ´tÃ©, de les comparer.</description><pubDate>Fri, 10 Jan 2020 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/6171817cb47cec6ebca7e086_A4-imprimable-IKIGAI.png" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/6171817cb47cec6ebca7e086_A4-imprimable-IKIGAI.png"/></item>
+        <item>
+            <title>Ikigai croisé</title>
+            <link>./blog/ikigai-croise.html</link>
+            <guid>./blog/ikigai-croise.html</guid>
+            <description>Une idée pour donner du piquant au jeu est, lorsque chaque membre du couple a fait son IKIGAI de son côté, de les comparer.</description>
+            <pubDate>Fri, 10 Jan 2020 00:00:00 GMT</pubDate>
+            <media:content url="./img/ikigai-croise.png" medium="image"/>
+            <media:thumbnail url="./img/ikigai-croise.png"/>
+        </item>
         
         <item><title>Câ€™est extra !</title><link>https://www.alento.fr/blog/cest-extra</link><guid>https://www.alento.fr/blog/cest-extra</guid><description>Une des valeurs fondamentales de la philosophie agile est la transparence. Câ€™est cependant souvent une arme Ã  double tranchant. Mal utilisÃ©e, elle peut crÃ©er lâ€™inverse de lâ€™effet escomptÃ©.</description><pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/617183ad70e71d4bbcf102db_cestextra%20medium.jpeg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/617183ad70e71d4bbcf102db_cestextra%20medium.jpeg"/></item>
         
