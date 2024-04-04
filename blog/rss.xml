@@ -290,9 +290,34 @@
             <media:thumbnail url="../img/jazzettes-4.jpeg"/>
         </item>
         
-        <item><title>Les Jazzettes #3 : Le bien-Ãªtre ne se mÃ©rite pas</title><link>https://www.alento.fr/blog/les-jazzettes-3-le-bien-etre-ne-se-merite-pas</link><guid>https://www.alento.fr/blog/les-jazzettes-3-le-bien-etre-ne-se-merite-pas</guid><description>Prenez-vous le temps de vous faire plaisir dans vos journÃ©es ? Comment prenez-vous soin de votre bien-Ãªtre ?</description><pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a225ffd19a15b72d8e1a8f_eric-nopanen-8e0EHPUx3Mo-unsplash-small.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a225ffd19a15b72d8e1a8f_eric-nopanen-8e0EHPUx3Mo-unsplash-small.jpg"/></item><item><title>Les Jazzettes #2 : Le pouvoir d&#39;en faire moins et la libertÃ© de dÃ©cevoir</title><link>https://www.alento.fr/blog/les-jazzettes-2-le-pouvoir-den-faire-moins-et-la-liberte-de-decevoir</link><guid>https://www.alento.fr/blog/les-jazzettes-2-le-pouvoir-den-faire-moins-et-la-liberte-de-decevoir</guid><description>C&#39;est lâ€™histoire de Julie.</description><pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a228719bb6c777c98fb90f_the-humantra-uoXTTZ9I0DM-unsplash-small.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/60a228719bb6c777c98fb90f_the-humantra-uoXTTZ9I0DM-unsplash-small.jpg"/></item>
+        <item>
+            <title>Les Jazzettes #3 : Le bien-être ne se mérite pas</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-3</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-3</guid>
+            <description>Prenez-vous le temps de vous faire plaisir dans vos journées ? Comment prenez-vous soin de votre bien-être ?</description>
+            <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-3.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-3.jpeg"/>
+        </item>
         
-        <item><title>Les Jazzettes #1 : Laisser de l&#39;oxygÃ¨ne</title><link>https://www.alento.fr/blog/les-jazzettes-1-laisser-de-loxygene</link><guid>https://www.alento.fr/blog/les-jazzettes-1-laisser-de-loxygene</guid><description>Comment faites-vous pour avoir de lâ€™oxygÃ¨ne dans vos journÃ©es ?</description><pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/609926f7fbce6129cb67468b_julian-paolo-dayag-54fhWCTRrrE-unsplash%20(1).jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/609926f7fbce6129cb67468b_julian-paolo-dayag-54fhWCTRrrE-unsplash%20(1).jpg"/></item>
+        <item>
+            <title>Les Jazzettes #2 : Le pouvoir d'en faire moins et la liberté de décevoir</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-2</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-2</guid>
+            <description>C'est l'histoire de Julie.</description>
+            <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-2.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-2.jpeg"/>
+        </item>
+        
+        <item>
+            <title>Les Jazzettes #1 : Laisser de l'oxygène</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-1</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-1</guid>
+            <description>Comment faites-vous pour avoir de l'oxygène dans vos journées ?</description>
+            <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-1.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-1.jpeg"/></item>
         
         <item><title>Le temps juste (tempo giusto)</title><link>https://www.alento.fr/blog/le-temps-juste-tempo-giusto</link><guid>https://www.alento.fr/blog/le-temps-juste-tempo-giusto</guid><description>En lisant Slow business de Pierre Moniz-Barreto, jâ€™Ã©tais trÃ¨s intÃ©ressÃ© par le concept de rythme, de cadence, que jâ€™utilise souvent chez mes clients.</description><pubDate>Wed, 15 Apr 2020 00:00:00 GMT</pubDate><media:content url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/609957e345191752c1f74b53_blog-temps-juste-image-1-640px.jpg" medium="image"/><media:thumbnail url="https://uploads-ssl.webflow.com/608fc307505e0e14447d9d6b/609957e345191752c1f74b53_blog-temps-juste-image-1-640px.jpg"/></item>
         
