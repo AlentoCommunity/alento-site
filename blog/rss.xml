@@ -325,8 +325,8 @@
             <guid>./blog/le-temps-juste-tempo-giusto.html</guid>
             <description>En lisant Slow business de Pierre Moniz-Barreto, j'étais très intéressé par le concept de rythme, de cadence, que j'utilise souvent chez mes clients.</description>
             <pubDate>Wed, 15 Apr 2020 00:00:00 GMT</pubDate>
-            <media:content url="./img/le-temps-juste-tempo-giusto.jpg" medium="image"/>
-            <media:thumbnail url="./img/le-temps-juste-tempo-giusto.jpg"/>
+            <media:content url="../img/le-temps-juste-tempo-giusto.jpg" medium="image"/>
+            <media:thumbnail url="../img/le-temps-juste-tempo-giusto.jpg"/>
         </item>
         
         <item>
@@ -335,8 +335,8 @@
             <guid>./blog/nous-ouvrons-lespace-avec-lopen-space.html</guid>
             <description>Découvrez un format de journée collaborative très utile pour l'émergence de nouvelles idées, le partage de connaissance, et la création de lien entre les participant.e.s.</description>
             <pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate>
-            <media:content url="./img/nous-ouvrons-lespace-avec-lopen-space.jpg" medium="image"/>
-            <media:thumbnail url="./img/nous-ouvrons-lespace-avec-lopen-space.jpg"/>
+            <media:content url="../img/nous-ouvrons-lespace-avec-lopen-space.jpg" medium="image"/>
+            <media:thumbnail url="../img/nous-ouvrons-lespace-avec-lopen-space.jpg"/>
         </item>
         
         <item>
@@ -345,8 +345,8 @@
             <guid>./blog/ikigai-croise.html</guid>
             <description>Une idée pour donner du piquant au jeu est, lorsque chaque membre du couple a fait son IKIGAI de son côté, de les comparer.</description>
             <pubDate>Fri, 10 Jan 2020 00:00:00 GMT</pubDate>
-            <media:content url="./img/ikigai-croise.png" medium="image"/>
-            <media:thumbnail url="./img/ikigai-croise.png"/>
+            <media:content url="../img/ikigai-croise.png" medium="image"/>
+            <media:thumbnail url="../img/ikigai-croise.png"/>
         </item>
         
         <item>
@@ -355,8 +355,8 @@
             <guid>./blog/cest-extra.html</guid>
             <description>Une des valeurs fondamentales de la philosophie agile est la transparence. C'est cependant souvent une arme à double tranchant. Mal utilisée, elle peut créer l'inverse de l'effet escompté.</description>
             <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
-            <media:content url="./img/cest-extra.jpeg" medium="image"/>
-            <media:thumbnail url="./img/cest-extra.jpeg"/>
+            <media:content url="../img/cest-extra.jpeg" medium="image"/>
+            <media:thumbnail url="../img/cest-extra.jpeg"/>
         </item>
         
         <item>
@@ -365,8 +365,8 @@
             <guid>./blog/la-piscine-sans-rebord-visible.html</guid>
             <description>J'ai plongé dans une piscine, pour me rendre compte en regardant tout autour de moi qu'il n'y avait pas de rebords visibles !</description>
             <pubDate>Wed, 28 Aug 2019 00:00:00 GMT</pubDate>
-            <media:content url="./img/la-piscine-sans-rebord-visible.jpeg" medium="image"/>
-            <media:thumbnail url="./img/la-piscine-sans-rebord-visible.jpeg"/>
+            <media:content url="../img/la-piscine-sans-rebord-visible.jpeg" medium="image"/>
+            <media:thumbnail url="../img/la-piscine-sans-rebord-visible.jpeg"/>
         </item>
         
         <item>
@@ -375,8 +375,8 @@
             <guid>./blog/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.html</guid>
             <description>Dans ce court article, je décris la structure que je recommande pour lancer un sprint en pensant à tous les éléments en jeu.</description>
             <pubDate>Wed, 30 Jan 2019 00:00:00 GMT</pubDate>
-            <media:content url="./img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg" medium="image"/>
-            <media:thumbnail url="./img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg"/>
+            <media:content url="../img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg" medium="image"/>
+            <media:thumbnail url="../img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg"/>
         </item>
         
         <item>
@@ -385,8 +385,8 @@
             <guid>./blog/joy-inc-la-joie-est-bruyante.html</guid>
             <description>J'ai terminé, début 2018, le livre Joy, Inc. - How We Built a Workplace People Love de Richard Sheridan, co-fondateur de Menlo Innovations.</description>
             <pubDate>Sat, 17 Mar 2018 00:00:00 GMT</pubDate>
-            <media:content url="./img/joy-inc-la-joie-est-bruyante.jpeg" medium="image"/>
-            <media:thumbnail url="./img/joy-inc-la-joie-est-bruyante.jpeg"/>
+            <media:content url="../img/joy-inc-la-joie-est-bruyante.jpeg" medium="image"/>
+            <media:thumbnail url="../img/joy-inc-la-joie-est-bruyante.jpeg"/>
         </item>
         
         <item>
@@ -395,8 +395,8 @@
             <guid>./blog/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.html</guid>
             <description>Il s'agit d'un atelier où différents acteurs de l'entreprise font du dessin, du découpage et du collage avec des formes variées.</description>
             <pubDate>Fri, 21 Jul 2017 00:00:00 GMT</pubDate>
-            <media:content url="./img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg" medium="image"/>
-            <media:thumbnail url="./img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg"/>
+            <media:content url="../img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg" medium="image"/>
+            <media:thumbnail url="../img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg"/>
         </item>
         
         <item>
