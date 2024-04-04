@@ -401,12 +401,12 @@
         
         <item>
             <title>Les Transformers, les maîtres de l'illusion !</title>
-            <link>./blog/les-transformers-les-maitres-de-lillusion.html</link>
-            <guid>./blog/les-transformers-les-maitres-de-lillusion.html</guid>
+            <link>les-transformers-les-maitres-de-lillusion.html</link>
+            <guid>les-transformers-les-maitres-de-lillusion.html</guid>
             <description>Vous savez ces budgets mis en place pour aider les départements informatiques à être plus performants, à livrer plus vite et moins cher. Je trouve que c'est une illusion si les hauts dirigeant(e)s ne pensent pas qu'il faut qu'ils s'y mettent eux ou elles aussi.</description>
             <pubDate>Mon, 06 Mar 2017 00:00:00 GMT</pubDate>
-            <media:content url="./img/les-transformers-les-maitres-de-lillusion.jpeg" medium="image"/>
-            <media:thumbnail url="./img/les-transformers-les-maitres-de-lillusion.jpeg"/>
+            <media:content url="../img/les-transformers-les-maitres-de-lillusion.jpeg" medium="image"/>
+            <media:thumbnail url="../img/les-transformers-les-maitres-de-lillusion.jpeg"/>
         </item>
         
     </channel>
