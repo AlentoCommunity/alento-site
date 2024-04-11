@@ -50,87 +50,152 @@
 
   <link href="../img/favicon.png" rel="shortcut icon" type="image/x-icon">
   <link href="../img/alento-logo-256x256.png" rel="apple-touch-icon">
-  
+
 </head>
 
 <body class="wf-81ocvw" data-wf-unified-tokens="wf-81ocvw">
-  <div data-collapse="small" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
+
+  <!-- HEADER BEGIN -->
+  <div data-collapse="small" data-animation="default" data-duration="400" 
+    data-easing="ease" data-easing2="ease"
     role="banner" class="navbar w-nav">
-    <div class="w-container"><a href="https://www.alento.fr/" class="w-nav-brand" aria-label="home"><img
-          src="./Prenez le temps avec Jazz_files/606c5ba4121716572c85a6f6_Logo-Alento-nom-320px.png" loading="lazy"
-          width="166" alt=""></a>
-      <nav role="navigation" class="nav-menu w-nav-menu"><a href="https://www.alento.fr/#offers"
-          class="nav-link-2 w-nav-link" style="max-width: 940px;">Nos offres</a><a href="https://www.alento.fr/events"
-          class="nav-link-2 w-nav-link" style="max-width: 940px;">Nos évènements</a><a href="https://www.alento.fr/blog"
-          class="nav-link-2 w-nav-link" style="max-width: 940px;">Blog</a><a href="https://www.alento.fr/about"
-          class="nav-link-2 w-nav-link" style="max-width: 940px;">À propos</a><a
-          href="https://www.alento.fr/#contact-form" class="nav-link-2 w-nav-link" style="max-width: 940px;">Contact</a>
+    <div class="w-container">
+      <a href="../index.html" class="w-nav-brand" aria-label="home">
+        <img src="../img/alento-logo-nom-320px.png" loading="lazy" width="166" alt="">
+      </a>
+      <nav role="navigation" class="nav-menu w-nav-menu">
+        <a href="../dialogue.html" aria-current="page" class="nav-link-2 w-nav-link w--current" style="max-width: 940px;">Nos évènements</a>
+        <a href="../blog.html" class="nav-link-2 w-nav-link" style="max-width: 940px;">Blog</a>
+        <a href="../about.html" class="nav-link-2 w-nav-link" style="max-width: 940px;">À propos</a>
       </nav>
+      <!-- Burger menu -->
       <div class="menu-button w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button"
-        tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
+        tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false" onclick="toggleMobileMenu()">
         <div class="icon w-icon-nav-menu"></div>
       </div>
     </div>
-    <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div>
-  </div>
-  <header id="jazz-overlay" class="hero-overlay-3">
-    <div class="centered-container w-container">
-      <h1 class="heading">Prenez le temps avec JAZZ</h1>
-      <p class="sub-header">Les outils pour vous aider à organiser votre temps et trouver votre rythme juste</p>
-      <div class="div-block-13">
-        <div class="div-block-14"><a href="https://www.alento.fr/offres/jazz#accompagnement"
-            class="button w-button">L'accompagnement</a></div>
-        <div class="div-block-15"><a href="https://www.alento.fr/offres/jazz#application"
-            class="button-2 w-button">L'application</a></div>
-      </div>
+    <!-- Burger menu navigation open -->
+    <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0" style="height: 180px; display: none;">
+      <nav role="navigation" class="nav-menu w-nav-menu" style="transform: translateY(0px) translateX(0px); transition: transform 400ms ease 0s;" data-nav-menu-open="">
+        <a href="../dialogue.html" class="nav-link-2 w-nav-link w--nav-link-open" style="max-width: 728px;">Nos évènements</a>
+        <a href="../blog.html" class="nav-link-2 w-nav-link w--nav-link-open" style="max-width: 728px;">Blog</a>
+        <a href="../about.html" class="nav-link-2 w-nav-link w--nav-link-open" style="max-width: 728px;">À propos</a>
+      </nav>
     </div>
+  </div>
+  <!-- HEADER END -->
+  
+  <header id="jazz-overlay" class="hero-overlay-3">
+
+    <div class="centered-container w-container">
+    
+      <h1 class="heading">Prenez le temps avec JAZZ</h1>
+
+      <p class="sub-header">Les outils pour vous aider à organiser votre temps et trouver votre rythme juste</p>
+
+      <div class="div-block-13">
+
+        <div class="div-block-14">
+          <a href="../accompagnement-jazz.html" class="button w-button">
+            L'accompagnement
+          </a>
+        </div>
+
+        <div class="div-block-15">
+          <a href="#application" class="button-2 w-button">
+            L'application
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+
   </header>
+
   <div class="offer-section">
+
     <div class="offer-container w-container">
+
       <h2 class="heading-2">Libérez du temps</h2>
+      
       <h4 class="heading-4-centered">Et si on arrêtait de courir ?</h4>
-      <p class="paragraph-centered">Avez vous cette impression de courir après le temps ?<br>De finir vos journées sans
+      
+      <p class="paragraph-centered">
+        Avez vous cette impression de courir après le temps ?<br>De finir vos journées sans
         avoir fait ce que vous vouliez faire ?<br>D'être constamment débordé·e, et ne pas avoir de temps libre
         ?<br><br>Jazz vous aide à trouver votre rythme, une sérénité face à votre emploi du temps. <br>Libérez enfin de
-        l'espace pour respirer et prendre soin de vous.</p>
+        l'espace pour respirer et prendre soin de vous.
+      </p>
+
     </div>
+
   </div>
+
   <div id="jazz-about" class="offer-section purple-section">
+
     <div class="offer-container w-container">
+
       <h2>Qu'est-ce que Jazz ?</h2>
-      <p class="paragraph-offer">Jazz est un projet né d'un constat : tout s'accélère.&nbsp;Notre rythme de vie
+
+      <p class="paragraph-offer">
+        Jazz est un projet né d'un constat : tout s'accélère.&nbsp;Notre rythme de vie
         occidentale va de plus en plus vite, les organisations visent la croissance continue, nous avons toujours plus
         d'attentes et de préoccupations, et avec une pression constante à la performance et à l'amélioration.<br><br>À
         travers ce projet, nous aspirons à aider les personnes à trouver un rythme plus équilibré, à mieux se concentrer
         sur ce qui est essentiel, et à se sentir plus épanouies dans leur vie professionnelle et
-        personnelle.<br><br>Pour cela, nous avons démarré deux initiatives :<br></p>
+        personnelle.<br><br>Pour cela, nous avons démarré deux initiatives :<br>
+      </p>
+
       <ul role="list">
         <li class="paragraph-offer">Une offre d'accompagnement individuel de type "rétrospective"</li>
         <li class="paragraph-offer">Le développement d'une application de gestion du temps et d'organisation
           personnelle.</li>
       </ul>
+
     </div>
+
   </div>
+
   <header id="accompagnement" class="hero">
+
     <div class="flex-container w-container">
+    
       <div>
+    
         <h3 class="heading-3">Offre d'accompagnement "Rétrospective"</h3>
-        <p class="paragraph-offer">Vous sentez-vous souvent débordé·e, dépassé·e par le temps ? Avez-vous cette
+    
+        <p class="paragraph-offer">
+          Vous sentez-vous souvent débordé·e, dépassé·e par le temps ? Avez-vous cette
           impression d'être toujours occupé·e, de ne jamais vous arrêter, et pourtant d'être souvent en retard
           ?<br>‍<br>L'objectif de cette offre est de vous aider à prendre du recul sur votre semaine à travers des
           sessions de rétrospective en ligne.<br>‍<br>C'est une invitation à prendre un temps de réflexion et
           d'introspection, faire le point sur votre organisation, votre rapport au temps, et définir ensemble des
           actions concrètes à tester dans la semaine.<br><br>Envie d'en savoir plus ? Prenons un premier rendez-vous
-          ensemble en ligne pour en parler.<br>‍</p><a href="https://calendly.com/souad-h/30min" target="_blank"
-          class="button w-button">Prendre un rendez-vous gratuit</a>
-        <div class="div-block-30"><a href="https://www.alento.fr/accompagnement-jazz" target="_blank"
-            class="button button-2 w-button">Découvrir l'offre en détails</a></div>
+          ensemble en ligne pour en parler.<br>‍
+        </p>
+        
+        <a href="https://www.linkedin.com/in/souadhadjiat/" target="_souad" class="button w-button">
+          Prendre un rendez-vous gratuit
+        </a>
+
+        <div class="div-block-30">
+          <a href="../accompagnement-jazz.html" class="button button-2 w-button">
+            Découvrir l'offre en détails
+          </a>
+        </div>
+
       </div>
-      <div class="hero-image-mask"><img
-          src="./Prenez le temps avec Jazz_files/606c620658abc7565aabf212_jazz-offre-image.jpg"
-          alt="Un smartphone, un agenda papier, un stylo et un bouquet de fleurs." class="hero-image"></div>
+
+      <div class="hero-image-mask">
+        <img src="../img/jazz-offre-image.jpg"
+          alt="Un smartphone, un agenda papier, un stylo et un bouquet de fleurs." class="hero-image">
+      </div>
+
     </div>
+
   </header>
+  
   <div class="offer-section purple-section">
     <div class="w-container">
       <h2 class="heading-2">Témoignages</h2>
