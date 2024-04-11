@@ -4018,6 +4018,7 @@ body {
   background-color: #f5edcc;
   background-image: linear-gradient(#f5edcc, #fff);
   background-clip: content-box;
+  background-attachment: fixed;
 }
 
 .header-section {
