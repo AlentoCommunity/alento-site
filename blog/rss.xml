@@ -16,9 +16,29 @@
             Articles publiés par Souad et Alexandre sur l'agilité, le management, la gestion et la philosophie à propos du temps.
         </description>
         
-        <pubDate>Thu, 04 Apr 2024 16:45:00 GMT</pubDate>
+        <pubDate>Tue, 14 May 2024 14:17:00 GMT</pubDate>
 
         <atom:link href="https://www.alento.fr/blog/rss.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+            <title>Alento #27 : Les dialogues de mai 2024</title>
+            <link>https://alento.substack.com/p/alento-27-les-dialogues-de-mai-2024</link>
+            <guid>https://alento.substack.com/p/alento-27-les-dialogues-de-mai-2024</guid>
+            <description>2 dialogues libres, 1 vue du ciel, 1 texte de Souad</description>
+            <pubDate>Tue, 14 May 2024 14:17:00 GMT</pubDate>
+            <media:content url="../img/alento-27.jpeg" medium="image"/>
+            <media:thumbnail url="../img/alento-27.jpeg"/>
+        </item>
+
+        <item>
+            <title>Les Jazzettes #31 : Décalage</title>
+            <link>https://jazzettes.substack.com/p/les-jazzettes-31</link>
+            <guid>https://jazzettes.substack.com/p/les-jazzettes-31</guid>
+            <description>Il y a beaucoup de décalage entre ce que je pense que je devrais faire et ce que je fais en réalité.</description>
+            <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+            <media:content url="../img/jazzettes-31.jpeg" medium="image"/>
+            <media:thumbnail url="../img/jazzettes-31.jpeg"/>
+        </item>
 
         <item>
             <title>Alento #26 : Les dialogues d'avril 2024</title>
