@@ -16,9 +16,20 @@
             Articles publiés par Souad et Alexandre sur l'agilité, le management, la gestion et la philosophie à propos du temps.
         </description>
         
-        <pubDate>Fri, 08 Nov 2024 17:54:11 GMT</pubDate>
+        <pubDate>Mon, 09 Dec 2024 21:50:08 GMT</pubDate>
 
         <atom:link href="https://www.alento.fr/blog/rss.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+            <title>Alento #32 : Les dialogues de décembre 2024 et la vue du ciel de l'année !</title>
+            <link>https://alento.substack.com/p/alento-32-les-dialogues-de-decembre</link>
+            <guid>https://alento.substack.com/p/alento-32-les-dialogues-de-decembre</guid>
+            <description>2 dialogues libres, 1 vue du ciel 2024</description>
+            <pubDate>Mon, 09 Dec 2024 21:50:08 GMT</pubDate>
+            <media:content url="https://alento.fr/img/alento-32.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-32.jpg"/>
+        </item>
+
 
         <item>
             <title>Alento #31 : Les dialogues de novembre 2024</title>
@@ -26,8 +37,8 @@
             <guid>https://alento.substack.com/p/alento-31-les-dialogues-de-novembre</guid>
             <description>2 dialogues libres, 1 vue du ciel</description>
             <pubDate>Fri, 08 Nov 2024 17:54:11 GMT</pubDate>
-            <media:content url="../img/alento-31.jpg" medium="image"/>
-            <media:thumbnail url="../img/alento-31.jpg"/>
+            <media:content url="https://alento.fr/img/alento-31.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-31.jpg"/>
         </item>
 
         <item>
@@ -36,8 +47,8 @@
             <guid>https://alento.substack.com/p/alento-30-les-dialogues-doctobre</guid>
             <description>2 dialogues libres, 1 vue du ciel</description>
             <pubDate>Thu, 03 Oct 2024 20:48:11 GMT</pubDate>
-            <media:content url="../img/alento-30.jpg" medium="image"/>
-            <media:thumbnail url="../img/alento-30.jpg"/>
+            <media:content url="https://alento.fr/img/alento-30.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-30.jpg"/>
         </item>
 
         <item>
@@ -46,8 +57,8 @@
             <guid>https://alento.substack.com/p/alento-29-les-dialogues-de-septembre</guid>
             <description>2 dialogues libres, 2 vues du ciel</description>
             <pubDate>Mon, 02 Sep 2024 11:11:11 GMT</pubDate>
-            <media:content url="../img/alento-29.jpg" medium="image"/>
-            <media:thumbnail url="../img/alento-29.jpg"/>
+            <media:content url="https://alento.fr/img/alento-29.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-29.jpg"/>
         </item>
 
         <item>
@@ -56,8 +67,8 @@
             <guid>https://alento.substack.com/p/alento-28-les-dialogues-de-juin-2024</guid>
             <description>2 dialogues libres, 1 vue du ciel</description>
             <pubDate>Thu, 06 Jun 2024 09:50:00 GMT</pubDate>
-            <media:content url="../img/alento-28.jpg" medium="image"/>
-            <media:thumbnail url="../img/alento-28.jpg"/>
+            <media:content url="https://alento.fr/img/alento-28.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-28.jpg"/>
         </item>
 
         <item>
@@ -66,8 +77,8 @@
             <guid>https://alento.substack.com/p/alento-27-les-dialogues-de-mai-2024</guid>
             <description>2 dialogues libres, 1 vue du ciel, 1 texte de Souad</description>
             <pubDate>Tue, 14 May 2024 14:17:00 GMT</pubDate>
-            <media:content url="../img/alento-27.jpeg" medium="image"/>
-            <media:thumbnail url="../img/alento-27.jpeg"/>
+            <media:content url="https://alento.fr/img/alento-27.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-27.jpeg"/>
         </item>
 
         <item>
@@ -76,8 +87,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-31</guid>
             <description>Il y a beaucoup de décalage entre ce que je pense que je devrais faire et ce que je fais en réalité.</description>
             <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-31.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-31.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-31.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-31.jpeg"/>
         </item>
 
         <item>
@@ -86,8 +97,8 @@
             <guid>https://alento.substack.com/p/alento-26-les-dialogues-davril-2024</guid>
             <description>2 dialogues libres, 1 vue du ciel</description>
             <pubDate>Thu, 04 Apr 2024 16:45:00 GMT</pubDate>
-            <media:content url="../img/alento-26.jpeg" medium="image"/>
-            <media:thumbnail url="../img/alento-26.jpeg"/>
+            <media:content url="https://alento.fr/img/alento-26.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-26.jpeg"/>
         </item>
 
         <item>
@@ -96,8 +107,8 @@
             <guid>https://alento.substack.com/p/alento-25-les-dialogues-de-mars-2024</guid>
             <description>1 dialogue libre, 1 vue du ciel</description>
             <pubDate>Tue, 19 Mar 2024 15:15:00 GMT</pubDate>
-            <media:content url="../img/alento-25.jpeg" medium="image"/>
-            <media:thumbnail url="../img/alento-25.jpeg"/>
+            <media:content url="https://alento.fr/img/alento-25.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-25.jpeg"/>
         </item>
 
         <item>
@@ -106,8 +117,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-30</guid>
             <description>Avoir un minimum de temps libre et ne pas avoir à le remplir de nouvelles tâches...</description>
             <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-30.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-30.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-30.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-30.jpeg"/>
         </item>
 
         <item>
@@ -116,8 +127,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-29</guid>
             <description>Les objets achetés me rendraient service, en répondant à des besoins. Est-ce bien le cas ?</description>
             <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-29.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-29.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-29.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-29.jpeg"/>
         </item>
         
         <item>
@@ -126,8 +137,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-28</guid>
             <description>Un phénomène a attiré mon attention : l'idée qu'en s'efforçant de finir son travail le plus tôt possible, voire d'anticiper des tâches, permettrait d'être tranquille le lendemain...</description>
             <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate
-            ><media:content url="../img/jazzettes-28.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-28.jpeg"/>
+            ><media:content url="https://alento.fr/img/jazzettes-28.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-28.jpeg"/>
         </item>
         
         <item>
@@ -136,8 +147,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-27</guid>
             <description>Arrive le moment de me poser cette question : et maintenant ? Où est-ce que j'en suis ? A quoi est-ce que je souhaite contribuer ?</description>
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-27.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-27.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-27.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-27.jpeg"/>
         </item>
 
         <item>
@@ -146,8 +157,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-26</guid>
             <description>Un moment donné, ma réflexion m'a amené à cette question : quand est-ce que ça commence ? Est-ce que ça commence quand quelqu'un dit que ça commence ?</description>
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-26.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-26.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-26.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-26.jpeg"/>
         </item>
         
         <item>
@@ -156,8 +167,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-25</guid>
             <description>Comment apprécier ses projets inachevés et autres réflexions</description>
             <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-25.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-25.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-25.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-25.jpeg"/>
         </item>
         
         <item>
@@ -166,8 +177,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-24</guid>
             <description>Le burnout est un phénomène assez répondu ces dernières années, en avez-vous entendu parler ? Ou peut-être l'avez-vous même vécu ?</description>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-24.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-24.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-24.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-24.jpeg"/>
         </item>
         
         <item>
@@ -176,8 +187,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-23</guid>
             <description>L'énergie pour accomplir ses rêves, pour réaliser ses projets, pour tenir ses engagements</description>
             <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-23.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-23.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-23.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-23.jpeg"/>
         </item>
         
         <item>
@@ -186,8 +197,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-22</guid>
             <description>Faire plus attention à ce que l'on fait</description>
             <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-22.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-22.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-22.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-22.jpeg"/>
         </item>
         
         <item>
@@ -196,8 +207,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-21</guid>
             <description>Retrouver la joie après une journée difficile</description>
             <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-21.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-21.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-21.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-21.jpeg"/>
         </item>
         
         <item>
@@ -206,8 +217,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-20</guid>
             <description>Comment retrouver l'abondance de temps</description>
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-20.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-20.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-20.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-20.jpeg"/>
         </item>
         
         <item>
@@ -216,8 +227,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzette-19</guid>
             <description>Une invitation à la détente</description>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-19.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-19.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-19.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-19.jpeg"/>
         </item>
         
         <item>
@@ -226,8 +237,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-18</guid>
             <description>Laisser la place à la joie des célébrations</description>
             <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-18.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-18.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-18.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-18.jpeg"/>
         </item>
         
         <item>
@@ -236,8 +247,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-17</guid>
             <description>Préparez-vous à être surpris</description>
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-17.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-17.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-17.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-17.jpeg"/>
         </item>
         
         <item>
@@ -246,8 +257,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-16</guid>
             <description>Me soucier moins et prendre soin de mes soucis</description>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-16.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-16.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-16.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-16.jpeg"/>
         </item>
         
         <item>
@@ -256,8 +267,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-15</guid>
             <description>Avez-vous hâte à quelque chose ? A un évènement particulier ? Aux prochaines vacances ?</description>
             <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-15.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-15.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-15.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-15.jpeg"/>
         </item>
         
         <item>
@@ -266,8 +277,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-14</guid>
             <description>Savez-vous ce que vous voulez vraiment ? </description>
             <pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-14.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-14.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-14.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-14.jpeg"/>
         </item>
         
         <item>
@@ -276,8 +287,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-13</guid>
             <description>Quand la peur de rater et l'angoisse du retard empêchent de s'installer dans le temps</description>
             <pubDate>Tue, 20 Jul 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-13.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-13.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-13.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-13.jpeg"/>
         </item>
         
         <item>
@@ -286,8 +297,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-12</guid>
             <description>Qu'est-ce qui est essentiel dans notre vie et quel temps y consacre-t-on au quotidien ?</description>
             <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-12.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-12.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-12.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-12.jpeg"/>
         </item>
         
         <item>
@@ -296,8 +307,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-11</guid>
             <description>Comment atteindre ses buts par le non-agir</description>
             <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-11.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-11.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-11.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-11.jpeg"/>
         </item>
         
         <item>
@@ -306,8 +317,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-10</guid>
             <description>Et si ne pas savoir était un atout face à la complexité du monde ?</description>
             <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-10.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-10.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-10.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-10.jpeg"/>
         </item>
             
         <item>
@@ -316,8 +327,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-9</guid>
             <description>Je vous propose une petite expÃ©rience, un temps de silence.</description>
             <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-9.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-9.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-9.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-9.jpeg"/>
         </item>
         
         <item>
@@ -326,8 +337,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-8</guid>
             <description>Avez-vous des moments inutiles durant votre journée ? Des temps où vous n'êtes pas vraiment concentrée sur votre travail ?</description>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-8.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-8.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-8.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-8.jpeg"/>
         </item>
         
         <item>
@@ -336,8 +347,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-7</guid>
             <description>Quand est-ce qu'on s'autorise à être satisfait ? Avez-vous ce sentiment de ne jamais en avoir assez fait ?</description>
             <pubDate>Tue, 06 Apr 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-7.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-7.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-7.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-7.jpeg"/>
         </item>
         
         <item>
@@ -346,8 +357,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-6</guid>
             <description>Lors de mes interviews et échanges dans le cadre du projet Jazz, le sujet de la charge de travail est omniprésent.</description>
             <pubDate>Tue, 23 Mar 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-6.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-6.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-6.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-6.jpeg"/>
         </item>
         
         <item>
@@ -356,8 +367,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-5</guid>
             <description>Prenez-vous du temps pour vous déconnecter ?</description>
             <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-5.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-5.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-5.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-5.jpeg"/>
         </item>
         
         <item>
@@ -366,8 +377,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-4</guid>
             <description>Il est extrêmement tentant de tout faire parfaitement, de toujours avoir de belles expériences.</description>
             <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-4.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-4.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-4.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-4.jpeg"/>
         </item>
         
         <item>
@@ -376,8 +387,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-3</guid>
             <description>Prenez-vous le temps de vous faire plaisir dans vos journées ? Comment prenez-vous soin de votre bien-être ?</description>
             <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-3.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-3.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-3.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-3.jpeg"/>
         </item>
         
         <item>
@@ -386,8 +397,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-2</guid>
             <description>C'est l'histoire de Julie.</description>
             <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-2.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-2.jpeg"/>
+            <media:content url="https://alento.fr/img/jazzettes-2.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-2.jpeg"/>
         </item>
         
         <item>
@@ -396,8 +407,8 @@
             <guid>https://jazzettes.substack.com/p/les-jazzettes-1</guid>
             <description>Comment faites-vous pour avoir de l'oxygène dans vos journées ?</description>
             <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
-            <media:content url="../img/jazzettes-1.jpeg" medium="image"/>
-            <media:thumbnail url="../img/jazzettes-1.jpeg"/></item>
+            <media:content url="https://alento.fr/img/jazzettes-1.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/jazzettes-1.jpeg"/></item>
         
         <item>
             <title>Le temps juste (tempo giusto)</title>
@@ -405,8 +416,8 @@
             <guid>le-temps-juste-tempo-giusto.html</guid>
             <description>En lisant Slow business de Pierre Moniz-Barreto, j'étais très intéressé par le concept de rythme, de cadence, que j'utilise souvent chez mes clients.</description>
             <pubDate>Wed, 15 Apr 2020 00:00:00 GMT</pubDate>
-            <media:content url="../img/le-temps-juste-tempo-giusto.jpg" medium="image"/>
-            <media:thumbnail url="../img/le-temps-juste-tempo-giusto.jpg"/>
+            <media:content url="https://alento.fr/img/le-temps-juste-tempo-giusto.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/le-temps-juste-tempo-giusto.jpg"/>
         </item>
         
         <item>
@@ -415,8 +426,8 @@
             <guid>nous-ouvrons-lespace-avec-lopen-space.html</guid>
             <description>Découvrez un format de journée collaborative très utile pour l'émergence de nouvelles idées, le partage de connaissance, et la création de lien entre les participant.e.s.</description>
             <pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate>
-            <media:content url="../img/nous-ouvrons-lespace-avec-lopen-space.jpg" medium="image"/>
-            <media:thumbnail url="../img/nous-ouvrons-lespace-avec-lopen-space.jpg"/>
+            <media:content url="https://alento.fr/img/nous-ouvrons-lespace-avec-lopen-space.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/nous-ouvrons-lespace-avec-lopen-space.jpg"/>
         </item>
         
         <item>
@@ -425,8 +436,8 @@
             <guid>ikigai-croise.html</guid>
             <description>Une idée pour donner du piquant au jeu est, lorsque chaque membre du couple a fait son IKIGAI de son côté, de les comparer.</description>
             <pubDate>Fri, 10 Jan 2020 00:00:00 GMT</pubDate>
-            <media:content url="../img/ikigai-croise.png" medium="image"/>
-            <media:thumbnail url="../img/ikigai-croise.png"/>
+            <media:content url="https://alento.fr/img/ikigai-croise.png" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/ikigai-croise.png"/>
         </item>
         
         <item>
@@ -435,8 +446,8 @@
             <guid>cest-extra.html</guid>
             <description>Une des valeurs fondamentales de la philosophie agile est la transparence. C'est cependant souvent une arme à double tranchant. Mal utilisée, elle peut créer l'inverse de l'effet escompté.</description>
             <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
-            <media:content url="../img/cest-extra.jpeg" medium="image"/>
-            <media:thumbnail url="../img/cest-extra.jpeg"/>
+            <media:content url="https://alento.fr/img/cest-extra.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/cest-extra.jpeg"/>
         </item>
         
         <item>
@@ -445,8 +456,8 @@
             <guid>la-piscine-sans-rebord-visible.html</guid>
             <description>J'ai plongé dans une piscine, pour me rendre compte en regardant tout autour de moi qu'il n'y avait pas de rebords visibles !</description>
             <pubDate>Wed, 28 Aug 2019 00:00:00 GMT</pubDate>
-            <media:content url="../img/la-piscine-sans-rebord-visible.jpeg" medium="image"/>
-            <media:thumbnail url="../img/la-piscine-sans-rebord-visible.jpeg"/>
+            <media:content url="https://alento.fr/img/la-piscine-sans-rebord-visible.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/la-piscine-sans-rebord-visible.jpeg"/>
         </item>
         
         <item>
@@ -455,8 +466,8 @@
             <guid>scrum-elements-a-considerer-lors-dun-lancement-de-sprint.html</guid>
             <description>Dans ce court article, je décris la structure que je recommande pour lancer un sprint en pensant à tous les éléments en jeu.</description>
             <pubDate>Wed, 30 Jan 2019 00:00:00 GMT</pubDate>
-            <media:content url="../img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg" medium="image"/>
-            <media:thumbnail url="../img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg"/>
+            <media:content url="https://alento.fr/img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/scrum-elements-a-considerer-lors-dun-lancement-de-sprint.jpeg"/>
         </item>
         
         <item>
@@ -465,8 +476,8 @@
             <guid>joy-inc-la-joie-est-bruyante.html</guid>
             <description>J'ai terminé, début 2018, le livre Joy, Inc. - How We Built a Workplace People Love de Richard Sheridan, co-fondateur de Menlo Innovations.</description>
             <pubDate>Sat, 17 Mar 2018 00:00:00 GMT</pubDate>
-            <media:content url="../img/joy-inc-la-joie-est-bruyante.jpeg" medium="image"/>
-            <media:thumbnail url="../img/joy-inc-la-joie-est-bruyante.jpeg"/>
+            <media:content url="https://alento.fr/img/joy-inc-la-joie-est-bruyante.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/joy-inc-la-joie-est-bruyante.jpeg"/>
         </item>
         
         <item>
@@ -475,8 +486,8 @@
             <guid>les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.html</guid>
             <description>Il s'agit d'un atelier où différents acteurs de l'entreprise font du dessin, du découpage et du collage avec des formes variées.</description>
             <pubDate>Fri, 21 Jul 2017 00:00:00 GMT</pubDate>
-            <media:content url="../img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg" medium="image"/>
-            <media:thumbnail url="../img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg"/>
+            <media:content url="https://alento.fr/img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/les-arts-plastiques-pour-la-co-construction-dune-evolution-de-lorganisation.jpeg"/>
         </item>
         
         <item>
@@ -485,8 +496,8 @@
             <guid>les-transformers-les-maitres-de-lillusion.html</guid>
             <description>Vous savez ces budgets mis en place pour aider les départements informatiques à être plus performants, à livrer plus vite et moins cher. Je trouve que c'est une illusion si les hauts dirigeant(e)s ne pensent pas qu'il faut qu'ils s'y mettent eux ou elles aussi.</description>
             <pubDate>Mon, 06 Mar 2017 00:00:00 GMT</pubDate>
-            <media:content url="../img/les-transformers-les-maitres-de-lillusion.jpeg" medium="image"/>
-            <media:thumbnail url="../img/les-transformers-les-maitres-de-lillusion.jpeg"/>
+            <media:content url="https://alento.fr/img/les-transformers-les-maitres-de-lillusion.jpeg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/les-transformers-les-maitres-de-lillusion.jpeg"/>
         </item>
         
     </channel>
