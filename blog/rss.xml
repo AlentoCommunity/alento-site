@@ -16,9 +16,29 @@
             Articles publiés par Souad et Alexandre sur l'agilité, le management, la gestion et la philosophie à propos du temps.
         </description>
         
-        <pubDate>Tue, 11 Mar 2025 08:37:08 GMT</pubDate>
+        <pubDate>Tue, 13 MAY 2025 17:39:08 GMT</pubDate>
 
         <atom:link href="https://www.alento.fr/blog/rss.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+            <title>Alento #35 : Dialogues libres de mai 2025</title>
+            <link>https://alento.substack.com/p/alento-35-dialogues-libres-de-mai</link>
+            <guid>https://alento.substack.com/p/alento-35-dialogues-libres-de-mai</guid>
+            <description>2 Dialogues libres en mai 2025</description>
+            <pubDate>Tue, 13 MAY 2025 17:39:08 GMT</pubDate>
+            <media:content url="https://alento.fr/img/alento-35.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-35.jpg"/>
+        </item>
+    
+        <item>
+            <title>Alento #34 : Dialogue libre - 20 mars 2025</title>
+            <link>https://alento.substack.com/p/alento-34-dialogue-libre-20-mars</link>
+            <guid>https://alento.substack.com/p/alento-34-dialogue-libre-20-mars</guid>
+            <description>Dialogue libre - Jeudi 20 mars - 18h00 à 19h30</description>
+            <pubDate>Tue, 11 Mar 2025 08:37:08 GMT<</pubDate>
+            <media:content url="https://alento.fr/img/alento-34.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-34.jpg"/>
+        </item>
 
         <item>
             <title>Alento #33 : Dialogue libre - 26 février 2025</title>
