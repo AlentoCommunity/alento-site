@@ -16,9 +16,19 @@
             Articles publiés par Souad et Alexandre sur l'agilité, le management, la gestion et la philosophie à propos du temps.
         </description>
         
-        <pubDate>Tue, 13 MAY 2025 17:39:08 GMT</pubDate>
+        <pubDate>Mon, 09 JUN 2025 19:46:08 GMT</pubDate>
 
         <atom:link href="https://www.alento.fr/blog/rss.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+            <title>Alento #36 : Dialogues libres de juin 2025</title>
+            <link>https://alento.substack.com/p/alento-36-dialogues-libres-de-juin</link>
+            <guid>https://alento.substack.com/p/alento-36-dialogues-libres-de-juin</guid>
+            <description>2 Dialogues libres en juin 2025 et suggestion de lecture</description>
+            <pubDate>Mon, 09 JUN 2025 19:46:08 GMT</pubDate>
+            <media:content url="https://alento.fr/img/alento-36.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-36.jpg"/>
+        </item>
 
         <item>
             <title>Alento #35 : Dialogues libres de mai 2025</title>
