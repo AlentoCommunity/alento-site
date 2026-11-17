@@ -20,6 +20,18 @@
 
         <atom:link href="https://www.alento.fr/blog/rss.xml" rel="self" type="application/rss+xml"/>
 
+https://alento.substack.com/p/alento-42-dialogue-libre-de-novembre
+
+        <item>
+            <title>Alento #42 : Dialogue libre de novembre 2026</title>
+            <link>https://alento.substack.com/p/alento-42-dialogue-libre-de-novembre</link>
+            <guid>https://alento.substack.com/p/alento-42-dialogue-libre-de-novembre</guid>
+            <description>1 dialogue libre en novembre 2026</description>
+            <pubDate>TUE, 17 NOV 2026 17:16:07 GMT</pubDate>
+            <media:content url="https://alento.fr/img/alento-42.jpg" medium="image"/>
+            <media:thumbnail url="https://alento.fr/img/alento-42.jpg"/>
+        </item>
+
         <item>
             <title>Alento #41 : Dialogue libre d'octobre 2026</title>
             <link>https://alento.substack.com/p/alento-41-dialogue-libre-doctobre</link>
